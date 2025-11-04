@@ -183,6 +183,7 @@ def chat(messages, model: Optional[str] = None, model_id: Optional[str] = None, 
     return chat_bedrock(message, model_id, temperature)
 
 
+
 def tool_choice(messages, model="gpt-4o", temperature=0, tools=[], config={}):
     """
     OpenAI tool choice functionality is disabled.

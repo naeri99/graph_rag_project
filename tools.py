@@ -705,6 +705,19 @@ def extract_json(text):
         "findings": []
     }
 
+# import_community_query = """
+# UNWIND $data AS row
+# MERGE (c:__Community__ {communityId: row.communityId})
+# SET c.title = row.community.title,
+#     c.summary = row.community.summary,
+#     c.rating = row.community.rating,
+#     c.rating_explanation = row.community.rating_explanation
+# WITH c, row
+# UNWIND row.nodes AS node
+# MERGE (n:__Entity__ {name: node})
+# MERGE (n)-[:IN_COMMUNITY]->(c)
+# """
+
 import_community_query = """
 UNWIND $data AS row
 MERGE (c:__Community__ {communityId: row.communityId})

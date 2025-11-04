@@ -1,0 +1,212 @@
+record_type,source_entity,target_entity,relationship_description,relationship_strength
+relationship,MUSE,JOVE,The Muse is referred to as the daughter of Jove,8
+relationship,ULYSSES,TROY,Ulysses sacked the famous town of Troy,9
+relationship,ULYSSES,HYPERION,"Ulysses's men perished after eating Hyperion's cattle, which prevented their return home",7
+relationship,HYPERION,ULYSSES,Hyperion prevented Ulysses's men from reaching home after they ate his cattle,8
+relationship,ULYSSES,CALYPSO,Calypso detained Ulysses in a cave and wanted to marry him,9
+relationship,CALYPSO,ULYSSES,Calypso kept Ulysses from returning to his wife and country,9
+relationship,NEPTUNE,ITHACA,Neptune prevented the hero from reaching his homeland of Ithaca,8
+relationship,NEPTUNE,ETHIOPIANS,Neptune went to the Ethiopians to accept a hecatomb and enjoy their festival,7
+relationship,OLYMPIAN JOVE,AEGISTHUS,Jove was thinking of Aegisthus when speaking to the other gods about human folly,6
+relationship,AEGISTHUS,AGAMEMNON,Aegisthus killed Agamemnon after making love to his wife,9
+relationship,ORESTES,AEGISTHUS,Orestes killed Aegisthus in revenge,9
+relationship,ORESTES,AGAMEMNON,Orestes is the son of Agamemnon,9
+relationship,AEGISTHUS,AGAMEMNON,Aegisthus made love to Agamemnon's wife unrighteously,8
+relationship,MERCURY,AEGISTHUS,Mercury was sent to warn Aegisthus not to kill Agamemnon or make love to his wife,8
+relationship,ORESTES,AEGISTHUS,Orestes would take revenge on Aegisthus when he grew up,9
+relationship,MINERVA,SATURN,Minerva is the daughter of Saturn,9
+relationship,MINERVA,ULYSSES,Minerva's heart bleeds for Ulysses and his sufferings,8
+relationship,ATLAS'S DAUGHTER,ATLAS,She is the daughter of the magician Atlas,9
+relationship,ATLAS'S DAUGHTER,ULYSSES,Atlas's daughter has captured Ulysses and tries to make him forget his home through blandishments,9
+relationship,ATLAS,ATLAS'S DAUGHTER,Atlas is the father of the goddess who holds Ulysses captive,9
+relationship,ULYSSES,TROY,Ulysses made many burnt sacrifices to the gods when he was before Troy,8
+relationship,ULYSSES,JOVE,"Ulysses propitiated Jove with burnt sacrifices, and Jove acknowledges him as the most capable man on earth",8
+relationship,NEPTUNE,ULYSSES,Neptune is furious with Ulysses for blinding Polyphemus and torments him by preventing him from getting home,9
+relationship,ULYSSES,POLYPHEMUS,"Ulysses blinded an eye of Polyphemus, causing Neptune's wrath",9
+relationship,POLYPHEMUS,CYCLOPES,Polyphemus is the king of the Cyclopes,9
+relationship,NEPTUNE,POLYPHEMUS,Neptune is the father of Polyphemus,9
+relationship,THOOSA,POLYPHEMUS,Thoosa is the mother of Polyphemus,9
+relationship,PHORCYS,THOOSA,Phorcys is the father of Thoosa,9
+relationship,MINERVA,JOVE,Minerva calls Jove father and discusses helping Ulysses with him,9
+relationship,JOVE,MINERVA,Jove is the father of Minerva,9
+relationship,MINERVA,SATURN,Minerva is the daughter of Saturn and addresses him as father,9
+relationship,MINERVA,MERCURY,Minerva plans to send Mercury to the Ogygian island with a message for Calypso,8
+relationship,MERCURY,CALYPSO,Mercury will be sent to tell Calypso that the gods have decided Ulysses should return,8
+relationship,CALYPSO,OGYGIAN ISLAND,Calypso resides on the Ogygian island,9
+relationship,ULYSSES,TELEMACHUS,Ulysses is the father of Telemachus,9
+relationship,MINERVA,TELEMACHUS,Minerva will go to embolden Telemachus and help him,8
+relationship,TELEMACHUS,PENELOPE,Telemachus is the son of Penelope,9
+relationship,TELEMACHUS,ACHAEANS,Telemachus will call the Achaeans in assembly,7
+relationship,MINERVA,ITHACA,Minerva will go to Ithaca to help Telemachus,8
+relationship,MINERVA,SPARTA,Minerva will conduct Telemachus to Sparta to seek news of his father,7
+relationship,MINERVA,PYLOS,Minerva will conduct Telemachus to Pylos to seek news of his father,7
+relationship,MINERVA,GOLDEN SANDALS,Minerva wears the golden sandals that allow her to fly,9
+relationship,MINERVA,BRONZE-SHOD SPEAR,Minerva grasps and wields the bronze-shod spear to quell heroes,9
+relationship,MINERVA,OLYMPUS,Minerva darted down from the topmost summits of Olympus,8
+relationship,MINERVA,ITHACA,Minerva arrives in Ithaca at the gateway of Ulysses' house,8
+relationship,MINERVA,ULYSSES,Minerva visits Ulysses' house while he is away,7
+relationship,MINERVA,MENTES,Minerva disguises herself as Mentes,9
+relationship,MENTES,TAPHIANS,Mentes is the chief of the Taphians,9
+relationship,MINERVA,BRONZE SPEAR,Minerva holds a bronze spear in her hand while disguised,8
+relationship,SUITORS,ULYSSES,"The suitors are gathered at Ulysses' house, eating his oxen and playing draughts",8
+relationship,TELEMACHUS,ULYSSES,Telemachus is the son of Ulysses and thinks about his brave father,9
+relationship,TELEMACHUS,SUITORS,Telemachus sits moodily among the suitors,7
+relationship,TELEMACHUS,MINERVA,"Telemachus sees Minerva first and welcomes her, taking her right hand and asking for her spear",8
+relationship,TELEMACHUS,MINERVA,Telemachus welcomes Minerva as a guest and leads her into the house,8
+relationship,MINERVA,SPEAR,Minerva carries the spear that Telemachus takes from her,8
+relationship,TELEMACHUS,SPEAR,Telemachus takes Minerva's spear and places it in the spear-stand,7
+relationship,SPEAR,SPEAR-STAND,The spear is placed in the spear-stand along with other spears,8
+relationship,ULYSSES,SPEAR-STAND,Ulysses' many spears are kept in the spear-stand,8
+relationship,TELEMACHUS,ULYSSES,Telemachus is the son of Ulysses and refers to him as his unhappy father,9
+relationship,TELEMACHUS,SUITORS,Telemachus wants to keep Minerva away from the noisy and insolent suitors,7
+relationship,MAID SERVANT,GOLDEN EWER,The maid servant uses the golden ewer to bring water,8
+relationship,MAID SERVANT,SILVER BASIN,The maid servant pours water into the silver basin,8
+relationship,UPPER SERVANT,TELEMACHUS,The upper servant serves bread and food to Telemachus and his guest,6
+relationship,CARVER,TELEMACHUS,The carver serves plates of meat and golden cups to Telemachus and his guest,6
+relationship,MANSERVANT,SUITORS,The manservant serves wine to the suitors and guests,7
+relationship,MEN SERVANTS,SUITORS,Men servants pour water over the suitors' hands,8
+relationship,MAIDS,SUITORS,Maids serve bread to the suitors using bread-baskets,7
+relationship,PAGES,MIXING-BOWLS,Pages fill the mixing-bowls with wine and water,8
+relationship,SUITORS,PHEMIUS,The suitors compel Phemius to sing to them,8
+relationship,PHEMIUS,LYRE,Phemius plays the lyre while singing,9
+relationship,TELEMACHUS,MINERVA,Telemachus speaks low to Minerva with his head close to hers so no one can hear,8
+relationship,TELEMACHUS,SUITORS,Telemachus criticizes the suitors' behavior and their costly banquet,7
+relationship,PAGES,SUITORS,Pages serve the suitors by filling mixing-bowls with wine and water,7
+relationship,TELEMACHUS,ULYSSES,Telemachus is the son of Ulysses and speaks about his father's ill fate,9
+relationship,TELEMACHUS,ITHACA,Telemachus lives in Ithaca and hopes his father will return there,8
+relationship,ULYSSES,ITHACA,Ithaca is Ulysses's homeland where Telemachus hopes he will return,9
+relationship,TELEMACHUS,MINERVA,Telemachus questions Minerva about her identity and origins,7
+relationship,MINERVA,MENTES,Minerva assumes the identity of Mentes in her disguise,9
+relationship,MENTES,ANCHIALUS,Mentes claims to be the son of Anchialus,8
+relationship,MENTES,TAPHIANS,Mentes claims to be the King of the Taphians,9
+relationship,MENTES,TEMESA,Mentes claims to be bound for Temesa on his voyage,7
+relationship,MENTES,ITHACA,Mentes has come to Ithaca with his ship and crew,8
+relationship,MENTES,TEMESA,Mentes is bound for Temesa with a cargo of iron to trade for copper,8
+relationship,MENTES,RHEITHRON,Mentes' ship lies in the harbour Rheithron,8
+relationship,RHEITHRON,NERITUM,The harbour Rheithron is located under the wooded mountain Neritum,9
+relationship,MENTES,LAERTES,"Mentes' father was friends with Laertes, establishing a family connection",8
+relationship,LAERTES,OLD WOMAN,The old woman looks after Laertes and prepares his meals,8
+relationship,LAERTES,VINEYARD,Laertes works in his vineyard and comes in tired from tending it,9
+relationship,MENTES,ULYSSES,Mentes came expecting to find Ulysses at home and speaks about his likely whereabouts,7
+relationship,ULYSSES,SAVAGES,Ulysses may be held prisoner by savages who are detaining him against his will,6
+relationship,MENTES,SHIP,Mentes owns and travels in the ship that lies in Rheithron harbour,9
+relationship,ULYSSES,TELEMACHUS,"Ulysses is the father of Telemachus, though Telemachus questions this and calls him ill-starred",9
+relationship,TELEMACHUS,ULYSSES,Telemachus resembles Ulysses about the head and eyes and is told he is his son,9
+relationship,ULYSSES,TROY,Ulysses sailed to Troy along with the flower of the Argives,8
+relationship,ULYSSES,ARGIVES,Ulysses went to Troy with the flower of all the Argives,7
+relationship,MENTES,ULYSSES,Mentes was a close friend of Ulysses before he sailed to Troy,8
+relationship,MENTES,TELEMACHUS,Mentes notices Telemachus's resemblance to Ulysses and comments on it,7
+relationship,PENELOPE,TELEMACHUS,Penelope is the mother of Telemachus and tells him he is son to Ulysses,9
+relationship,MINERVA,TELEMACHUS,Minerva speaks to Telemachus about his race and asks about the feasting,6
+relationship,ARGIVES,TROY,The flower of all the Argives went to Troy,8
+relationship,TELEMACHUS,ULYSSES,Telemachus is the son of Ulysses and speaks about his father's mysterious disappearance,9
+relationship,GODS,ULYSSES,The gods in their displeasure have willed Ulysses to be hidden away,8
+relationship,ULYSSES,TROY,Ulysses could have fallen at Troy with his men in battle,7
+relationship,ACHAEANS,ULYSSES,The Achaeans would have built a mound over Ulysses' ashes if he had died at Troy,7
+relationship,STORM-WINDS,ULYSSES,The storm-winds have spirited Ulysses away without leaving a trace,8
+relationship,TELEMACHUS,GUESTS,Telemachus is dealing with guests who are behaving atrociously in his house,8
+relationship,TELEMACHUS,PENELOPE,Telemachus is the son of Penelope who is being courted by suitors,9
+relationship,CHIEFS,DULICHIUM,Chiefs come from the island of Dulichium to court Penelope,8
+relationship,CHIEFS,SAME,Chiefs come from the island of Same to court Penelope,8
+relationship,CHIEFS,ZACYNTHUS,Chiefs come from the woodland island of Zacynthus to court Penelope,8
+relationship,CHIEFS,ITHACA,Principal men of Ithaca are among those eating up Telemachus's house,8
+relationship,SUITORS,PENELOPE,Suitors are paying court to Penelope under this pretext,8
+relationship,SUITORS,TELEMACHUS,Suitors are making havoc of Telemachus's estate,8
+relationship,MINERVA,ULYSSES,Minerva knew Ulysses when he was in their house drinking and making merry,8
+relationship,ULYSSES,HELMET,Minerva suggests giving Ulysses his helmet,7
+relationship,ULYSSES,SHIELD,Minerva suggests giving Ulysses his shield,7
+relationship,ULYSSES,LANCES,Minerva suggests giving Ulysses a couple of lances,7
+relationship,ULYSSES,EPHYRA,Ulysses went to Ephyra to beg poison for his arrows,8
+relationship,ULYSSES,ILUS,Ulysses went to Ilus to beg poison for his arrows,8
+relationship,ILUS,MERMERUS,Ilus is the son of Mermerus,9
+relationship,MENTES,ULYSSES,Mentes' father was very fond of Ulysses and gave him poison when Ilus would not,8
+relationship,ULYSSES,SUITORS,"If Ulysses returns, the suitors will have a short shrift and sorry wedding",8
+relationship,MENTES,TELEMACHUS,Mentes advises Telemachus to call assembly and get rid of suitors,7
+relationship,TELEMACHUS,ACHAEAN HEROES,Telemachus is advised to call the Achaean heroes in assembly and lay his case before them,7
+relationship,TELEMACHUS,PENELOPE,Telemachus is Penelope's son and is advised about her potential remarriage,9
+relationship,PENELOPE,PENELOPE'S FATHER,Penelope should go back to her father who will find her a husband and provide marriage gifts,8
+relationship,TELEMACHUS,SHIP,Telemachus is advised to take the best ship he can get to search for his father,8
+relationship,TELEMACHUS,CREW,Telemachus should take a crew of twenty men with him on his quest,7
+relationship,TELEMACHUS,ULYSSES,Telemachus should go in quest of his father Ulysses who has long been missing,9
+relationship,TELEMACHUS,PYLOS,Telemachus is advised to first go to Pylos to seek information about his father,8
+relationship,TELEMACHUS,NESTOR,Telemachus should ask Nestor in Pylos about his father's whereabouts,8
+relationship,TELEMACHUS,SPARTA,Telemachus should go to Sparta as his second destination,8
+relationship,TELEMACHUS,MENELAUS,Telemachus should visit Menelaus in Sparta for information about his father,8
+relationship,MENELAUS,ACHAEANS,Menelaus was the last of all the Achaeans to get home,8
+relationship,TELEMACHUS,SUITORS,Telemachus is advised to kill the suitors in his own house by fair means or foul,8
+relationship,ORESTES,AEGISTHUS,"Orestes killed Aegisthus, his father's murderer, and is praised for it",9
+relationship,TELEMACHUS,ORESTES,Telemachus is compared to Orestes as an example of someone who avenged his father,7
+relationship,MENTES,SHIP,Mentes must return to his ship,8
+relationship,MENTES,CREW,Mentes must return to his crew who will be impatient if kept waiting,8
+relationship,TELEMACHUS,MINERVA,Telemachus speaks to Minerva as though she were talking to her own son and offers hospitality,8
+relationship,MINERVA,TELEMACHUS,Minerva gives Telemachus courage and makes him think more about his father,9
+relationship,TELEMACHUS,PRESENT,Telemachus offers to give Minerva a present of great beauty and value as a keepsake,7
+relationship,MINERVA,PRESENT,Minerva declines the present for now but promises to accept it when she returns,7
+relationship,TELEMACHUS,BATH,Telemachus offers a bath to refresh the stranger,6
+relationship,MINERVA,BIRD,Minerva flies away like a bird into the air,8
+relationship,TELEMACHUS,ULYSSES,Telemachus thinks more than ever about his father Ulysses after Minerva's visit,8
+relationship,TELEMACHUS,SUITORS,Telemachus went straight to where the suitors were sitting after realizing the stranger was a god,7
+relationship,PHEMIUS,SUITORS,Phemius was singing to the suitors who sat rapt in silence,8
+relationship,PHEMIUS,TROY,Phemius was telling the sad tale of the return from Troy,8
+relationship,MINERVA,ACHAEANS,Minerva had laid ills upon the Achaeans according to Phemius's song,8
+relationship,PENELOPE,ICARIUS,Penelope is the daughter of Icarius,9
+relationship,PENELOPE,HANDMAIDS,Penelope was attended by two handmaids when she came downstairs,7
+relationship,PENELOPE,BEARING POSTS,Penelope stood by one of the bearing posts that supported the roof,6
+relationship,PENELOPE,VEIL,Penelope held a veil before her face while weeping,8
+relationship,PENELOPE,ULYSSES,"Penelope is the wife of Ulysses, her lost husband whom she mourns without ceasing",9
+relationship,PENELOPE,PHEMIUS,Penelope addresses Phemius and asks him to cease the sad tale and sing something else,8
+relationship,ULYSSES,HELLAS,Ulysses's name was great over all Hellas,8
+relationship,ULYSSES,MIDDLE ARGOS,Ulysses's name was great over middle Argos,8
+relationship,TELEMACHUS,PENELOPE,Telemachus is Penelope's son who tells her to let the bard sing and claims authority as master of the house,9
+relationship,TELEMACHUS,BARD,"Telemachus defends the bard, saying bards don't make the ills they sing of",7
+relationship,JOVE,BARD,"Jove, not bards, makes the ills that are sung about according to Telemachus",6
+relationship,BARD,DANAANS,The bard sings about the ill-fated return of the Danaans from Troy,8
+relationship,ULYSSES,TROY,"Ulysses never came back from Troy, like many others who went down",8
+relationship,PENELOPE,LOOM,Telemachus tells Penelope to busy herself with her loom as part of her daily duties,7
+relationship,PENELOPE,DISTAFF,Telemachus tells Penelope to busy herself with her distaff as part of her daily duties,7
+relationship,PENELOPE,SERVANTS,Telemachus tells Penelope to busy herself with ordering her servants,7
+relationship,PENELOPE,HANDMAIDS,Penelope goes upstairs with her handmaids into her room,8
+relationship,PENELOPE,ULYSSES,Penelope mourns Ulysses as her dear husband,9
+relationship,MINERVA,PENELOPE,Minerva sheds sweet sleep over Penelope's eyes while she mourns,8
+relationship,TELEMACHUS,SUITORS,"Telemachus calls the suitors shameless and insolent, gives them formal notice to depart from his father's house",8
+relationship,SUITORS,PHEMIUS,The suitors listen to Phemius who has a divine voice,6
+relationship,TELEMACHUS,PHEMIUS,Telemachus praises Phemius for his rare divine voice,7
+relationship,TELEMACHUS,JOVE,Telemachus invokes Jove to reckon with the suitors if they persist in their behavior,7
+relationship,ANTINOUS,EUPEITHES,Antinous is the son of Eupeithes,9
+relationship,ANTINOUS,TELEMACHUS,Antinous responds to Telemachus's bold speech and challenges his claim to leadership,8
+relationship,TELEMACHUS,ITHACA,Telemachus claims he will be chief in Ithaca as his father was before him,8
+relationship,ULYSSES,ITHACA,Ulysses was previously chief in Ithaca before Telemachus,8
+relationship,TELEMACHUS,ULYSSES,Telemachus is the son of Ulysses and seeks to follow in his father's role as chief,9
+relationship,TELEMACHUS,ULYSSES,Telemachus is the son of Ulysses and will rule those whom his father won for him,9
+relationship,TELEMACHUS,ITHACA,Telemachus lives in Ithaca and claims he will be chief in his own house there,8
+relationship,ULYSSES,ITHACA,Ulysses was from Ithaca and won people there for his son to rule over,8
+relationship,EURYMACHUS,POLYBUS,Eurymachus is the son of Polybus,9
+relationship,EURYMACHUS,TELEMACHUS,Eurymachus speaks to Telemachus about leadership and acknowledges he should be master in his own house,7
+relationship,EURYMACHUS,STRANGER,Eurymachus asks Telemachus about the stranger who visited and left suddenly,6
+relationship,STRANGER,TELEMACHUS,The stranger may have brought Telemachus news about his father's return,6
+relationship,TELEMACHUS,ULYSSES,Telemachus is the son of Ulysses and states his father is dead and gone,9
+relationship,TELEMACHUS,PENELOPE,Telemachus is the son of Penelope who sometimes consults soothsayers,9
+relationship,PENELOPE,SOOTHSAYER,Penelope sometimes sends for and questions the soothsayer,7
+relationship,MENTES,ANCHIALUS,Mentes is the son of Anchialus,9
+relationship,MENTES,TAPHIANS,Mentes is the chief of the Taphians,9
+relationship,MENTES,ULYSSES,Mentes was an old friend of Ulysses,8
+relationship,TELEMACHUS,MINERVA,Telemachus knew in his heart that the stranger had been the goddess Minerva,9
+relationship,TELEMACHUS,TOWER,Telemachus has his room high up in the tower,8
+relationship,TOWER,OUTER COURT,The tower looks onto the outer court,8
+relationship,EURYCLEA,OPS,Euryclea is the daughter of Ops,9
+relationship,OPS,PISENOR,Ops is the son of Pisenor,9
+relationship,EURYCLEA,TORCHES,Euryclea carries a couple of blazing torches,8
+relationship,LAERTES,EURYCLEA,Laertes bought Euryclea with his own money when she was young,8
+relationship,TELEMACHUS,EURYCLEA,Euryclea goes before Telemachus with torches as he goes to his room,7
+relationship,LAERTES,LAERTES' WIFE,Laertes was married to his wife and feared her resentment regarding Euryclea,8
+relationship,LAERTES,EURYCLEA,Laertes respected Euryclea but did not take her to his bed for fear of his wife's resentment,7
+relationship,EURYCLEA,TELEMACHUS,Euryclea loved Telemachus better than other women in the house and had nursed him as a baby,9
+relationship,TELEMACHUS,BEDROOM,Telemachus went to his bedroom where he prepared for sleep,8
+relationship,TELEMACHUS,BED,Telemachus sat down upon the bed and later lay on it covered with fleece,8
+relationship,TELEMACHUS,SHIRT,Telemachus took off his shirt and gave it to Euryclea,8
+relationship,EURYCLEA,SHIRT,Euryclea folded Telemachus's shirt tidily and hung it up,8
+relationship,EURYCLEA,PEG,Euryclea hung the shirt over a peg by the bedside,7
+relationship,EURYCLEA,SILVER CATCH,Euryclea used the silver catch to pull the door closed,8
+relationship,EURYCLEA,STRAP,Euryclea used the strap to draw the bolt home on the door,8
+relationship,TELEMACHUS,WOOLLEN FLEECE,Telemachus lay covered with the woollen fleece while thinking,8
+relationship,TELEMACHUS,MINERVA,Telemachus thought all night about the counsel that Minerva had given him,8

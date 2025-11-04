@@ -1,0 +1,212 @@
+subject,object,verbs
+MUSE,JOVE,"be, refer"
+ULYSSES,TROY,sack
+ULYSSES,HYPERION,"perish, eat, prevent, return"
+HYPERION,ULYSSES,"prevent, reach, eat"
+ULYSSES,CALYPSO,"detain, want, marry"
+CALYPSO,ULYSSES,"keep, return"
+NEPTUNE,ITHACA,"prevent, reach"
+NEPTUNE,ETHIOPIANS,"go, accept, enjoy"
+OLYMPIAN JOVE,AEGISTHUS,"think, speak"
+AEGISTHUS,AGAMEMNON,"kill, make"
+ORESTES,AEGISTHUS,kill
+ORESTES,AGAMEMNON,be
+AEGISTHUS,AGAMEMNON,make
+MERCURY,AEGISTHUS,"send, warn, kill, make"
+ORESTES,AEGISTHUS,"take, grow"
+MINERVA,SATURN,be
+MINERVA,ULYSSES,bleed
+ATLAS'S DAUGHTER,ATLAS,be
+ATLAS'S DAUGHTER,ULYSSES,"capture, try, make, forget"
+ATLAS,ATLAS'S DAUGHTER,"be, hold"
+ULYSSES,TROY,"make, be"
+ULYSSES,JOVE,"propitiate, acknowledge"
+NEPTUNE,ULYSSES,"be, torment, blind, prevent, get"
+ULYSSES,POLYPHEMUS,"blind, cause"
+POLYPHEMUS,CYCLOPES,be
+NEPTUNE,POLYPHEMUS,be
+THOOSA,POLYPHEMUS,be
+PHORCYS,THOOSA,"be, father"
+MINERVA,JOVE,"call, discuss, help"
+JOVE,MINERVA,"be, father"
+MINERVA,SATURN,"be, address"
+MINERVA,MERCURY,"plan, send"
+MERCURY,CALYPSO,"send, tell, decide, return"
+CALYPSO,OGYGIAN ISLAND,reside
+ULYSSES,TELEMACHUS,be
+MINERVA,TELEMACHUS,"go, embolden, help"
+TELEMACHUS,PENELOPE,be
+TELEMACHUS,ACHAEANS,call
+MINERVA,ITHACA,"go, help"
+MINERVA,SPARTA,"conduct, seek"
+MINERVA,PYLOS,"conduct, seek"
+MINERVA,GOLDEN SANDALS,"wear, allow, fly"
+MINERVA,BRONZE-SHOD SPEAR,"grasp, wield, quell"
+MINERVA,OLYMPUS,dart
+MINERVA,ITHACA,arrive
+MINERVA,ULYSSES,"visit, be"
+MINERVA,MENTES,disguise
+MENTES,TAPHIANS,be
+MINERVA,BRONZE SPEAR,hold
+SUITORS,ULYSSES,"gather, eat, play"
+TELEMACHUS,ULYSSES,"be, think"
+TELEMACHUS,SUITORS,sit
+TELEMACHUS,MINERVA,"see, welcome, take, ask"
+TELEMACHUS,MINERVA,"welcome, lead"
+MINERVA,SPEAR,"carry, take"
+TELEMACHUS,SPEAR,"take, place"
+SPEAR,SPEAR-STAND,place
+ULYSSES,SPEAR-STAND,keep
+TELEMACHUS,ULYSSES,"be, refer"
+TELEMACHUS,SUITORS,"want, keep"
+MAID SERVANT,GOLDEN EWER,"use, bring"
+MAID SERVANT,SILVER BASIN,pour
+UPPER SERVANT,TELEMACHUS,serve
+CARVER,TELEMACHUS,serve
+MANSERVANT,SUITORS,serve
+MEN SERVANTS,SUITORS,pour
+MAIDS,SUITORS,"serve, use"
+PAGES,MIXING-BOWLS,fill
+SUITORS,PHEMIUS,"compel, sing"
+PHEMIUS,LYRE,"play, sing"
+TELEMACHUS,MINERVA,"speak, hear"
+TELEMACHUS,SUITORS,criticize
+PAGES,SUITORS,"serve, fill"
+TELEMACHUS,ULYSSES,"be, speak"
+TELEMACHUS,ITHACA,"live, hope, return"
+ULYSSES,ITHACA,"be, hope, return"
+TELEMACHUS,MINERVA,question
+MINERVA,MENTES,assume
+MENTES,ANCHIALUS,claim
+MENTES,TAPHIANS,"claim, be"
+MENTES,TEMESA,"claim, bind"
+MENTES,ITHACA,come
+MENTES,TEMESA,"bind, trade"
+MENTES,RHEITHRON,lie
+RHEITHRON,NERITUM,locate
+MENTES,LAERTES,"be, establish"
+LAERTES,OLD WOMAN,"look after, prepare"
+LAERTES,VINEYARD,"work, come, tend"
+MENTES,ULYSSES,"come, expect, find, speak"
+ULYSSES,SAVAGES,"hold, detain"
+MENTES,SHIP,"own, travel, lie"
+ULYSSES,TELEMACHUS,"be, question, call"
+TELEMACHUS,ULYSSES,"resemble, tell"
+ULYSSES,TROY,sail
+ULYSSES,ARGIVES,go
+MENTES,ULYSSES,"be, sail"
+MENTES,TELEMACHUS,"notice, comment"
+PENELOPE,TELEMACHUS,"be, tell"
+MINERVA,TELEMACHUS,"speak, ask"
+ARGIVES,TROY,go
+TELEMACHUS,ULYSSES,"be, speak"
+GODS,ULYSSES,"will, hide"
+ULYSSES,TROY,fall
+ACHAEANS,ULYSSES,"build, die"
+STORM-WINDS,ULYSSES,"spirit, leave"
+TELEMACHUS,GUESTS,"deal, behave"
+TELEMACHUS,PENELOPE,be
+CHIEFS,DULICHIUM,"come, court"
+CHIEFS,SAME,"come, court"
+CHIEFS,ZACYNTHUS,"come, court"
+CHIEFS,ITHACA,"be, eat"
+SUITORS,PENELOPE,"be, pay"
+SUITORS,TELEMACHUS,"be, make"
+MINERVA,ULYSSES,"know, be, drink, make"
+ULYSSES,HELMET,"suggest, give"
+ULYSSES,SHIELD,"suggest, give"
+ULYSSES,LANCES,"suggest, give"
+ULYSSES,EPHYRA,"go, beg"
+ULYSSES,ILUS,"go, beg"
+ILUS,MERMERUS,be
+MENTES,ULYSSES,"give, fond"
+ULYSSES,SUITORS,"return, have"
+MENTES,TELEMACHUS,"advise, call, get, rid"
+TELEMACHUS,ACHAEAN HEROES,"advise, call, lay"
+TELEMACHUS,PENELOPE,"be, advise"
+PENELOPE,PENELOPE'S FATHER,"go, find, provide"
+TELEMACHUS,SHIP,"advise, take, get, search"
+TELEMACHUS,CREW,take
+TELEMACHUS,ULYSSES,"go, miss"
+TELEMACHUS,PYLOS,"advise, go, seek"
+TELEMACHUS,NESTOR,ask
+TELEMACHUS,SPARTA,go
+TELEMACHUS,MENELAUS,visit
+MENELAUS,ACHAEANS,"be, get"
+TELEMACHUS,SUITORS,"advise, kill"
+ORESTES,AEGISTHUS,"kill, praise"
+TELEMACHUS,ORESTES,"compare, avenge"
+MENTES,SHIP,return
+MENTES,CREW,"return, be, keep, wait"
+TELEMACHUS,MINERVA,"speak, talk, offer"
+MINERVA,TELEMACHUS,"give, make, think"
+TELEMACHUS,PRESENT,"offer, give"
+MINERVA,PRESENT,"decline, promise, accept, return"
+TELEMACHUS,BATH,"offer, refresh"
+MINERVA,BIRD,fly
+TELEMACHUS,ULYSSES,think
+TELEMACHUS,SUITORS,"go, sit, realize, be"
+PHEMIUS,SUITORS,"sing, sit"
+PHEMIUS,TROY,"tell, return"
+MINERVA,ACHAEANS,lay
+PENELOPE,ICARIUS,be
+PENELOPE,HANDMAIDS,"attend, come"
+PENELOPE,BEARING POSTS,"stand, support"
+PENELOPE,VEIL,"hold, weep"
+PENELOPE,ULYSSES,"be, lose, mourn"
+PENELOPE,PHEMIUS,"address, ask, cease, sing"
+ULYSSES,HELLAS,be
+ULYSSES,MIDDLE ARGOS,be
+TELEMACHUS,PENELOPE,"be, tell, let, sing, claim"
+TELEMACHUS,BARD,"defend, say, make, sing"
+JOVE,BARD,"make, sing"
+BARD,DANAANS,"sing, return"
+ULYSSES,TROY,"come, go, go down"
+PENELOPE,LOOM,"busy, tell"
+PENELOPE,DISTAFF,"tell, busy"
+PENELOPE,SERVANTS,"tell, busy, order"
+PENELOPE,HANDMAIDS,go
+PENELOPE,ULYSSES,mourn
+MINERVA,PENELOPE,"shed, mourn"
+TELEMACHUS,SUITORS,"call, give, depart"
+SUITORS,PHEMIUS,"listen, have"
+TELEMACHUS,PHEMIUS,praise
+TELEMACHUS,JOVE,"invoke, reckon, persist"
+ANTINOUS,EUPEITHES,be
+ANTINOUS,TELEMACHUS,"respond, challenge"
+TELEMACHUS,ITHACA,"claim, be"
+ULYSSES,ITHACA,be
+TELEMACHUS,ULYSSES,"be, seek, follow"
+TELEMACHUS,ULYSSES,"be, rule, win"
+TELEMACHUS,ITHACA,"live, claim, be"
+ULYSSES,ITHACA,"be, win, rule"
+EURYMACHUS,POLYBUS,be
+EURYMACHUS,TELEMACHUS,"speak, acknowledge, be"
+EURYMACHUS,STRANGER,"ask, visit, leave"
+STRANGER,TELEMACHUS,"bring, return"
+TELEMACHUS,ULYSSES,"be, state, die, go"
+TELEMACHUS,PENELOPE,be
+PENELOPE,SOOTHSAYER,"send, question"
+MENTES,ANCHIALUS,be
+MENTES,TAPHIANS,be
+MENTES,ULYSSES,be
+TELEMACHUS,MINERVA,"know, be"
+TELEMACHUS,TOWER,have
+TOWER,OUTER COURT,look
+EURYCLEA,OPS,be
+OPS,PISENOR,be
+EURYCLEA,TORCHES,carry
+LAERTES,EURYCLEA,buy
+TELEMACHUS,EURYCLEA,go
+LAERTES,LAERTES' WIFE,"marry, fear"
+LAERTES,EURYCLEA,"respect, take, fear"
+EURYCLEA,TELEMACHUS,"love, nurse"
+TELEMACHUS,BEDROOM,"go, prepare"
+TELEMACHUS,BED,"sit, lie"
+TELEMACHUS,SHIRT,"take, give"
+EURYCLEA,SHIRT,"fold, hang"
+EURYCLEA,PEG,hang
+EURYCLEA,SILVER CATCH,"use, pull, close"
+EURYCLEA,STRAP,"use, draw"
+TELEMACHUS,WOOLLEN FLEECE,"lie, cover, think"
+TELEMACHUS,MINERVA,"think, give"

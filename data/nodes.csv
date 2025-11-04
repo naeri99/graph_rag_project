@@ -1,0 +1,220 @@
+record_type,entity_name,entity_type,entity_description
+entity,MUSE,GOD,Divine being invoked to tell the story of the ingenious hero who travelled far and wide after sacking Troy
+entity,TROY,LOCATION,Famous town that was sacked by the ingenious hero
+entity,HYPERION,GOD,"Sun-god whose cattle were eaten by the hero's men, leading to their destruction"
+entity,JOVE,GOD,"Father deity, referred to as the father of the Muse"
+entity,ULYSSES,PERSON,"Ingenious hero who travelled far and wide after sacking Troy, trying to return home to his wife and country"
+entity,CALYPSO,GOD,Goddess who detained Ulysses in a large cave and wanted to marry him
+entity,ITHACA,LOCATION,The homeland where the hero is destined to return after years of wandering
+entity,NEPTUNE,GOD,"God who persecuted the hero without ceasing and would not let him get home, later went to the Ethiopians for a festival"
+entity,ETHIOPIANS,PERSON,"People at the world's end who lie in two halves, one looking West and the other East, who received Neptune for a festival"
+entity,OLYMPIAN JOVE,GOD,"Sire of gods and men who spoke first when the gods met in his house, also called the father of gods"
+entity,AEGISTHUS,PERSON,"Man who made love to Agamemnon's wife unrighteously and killed Agamemnon, later killed by Orestes"
+entity,AGAMEMNON,PERSON,"Man who was killed by Aegisthus, father of Orestes"
+entity,ORESTES,PERSON,Son of Agamemnon who killed Aegisthus in revenge for his father's murder
+entity,MERCURY,GOD,Divine messenger sent by Jove to warn Aegisthus not to kill Agamemnon or make love to his wife
+entity,ORESTES,PERSON,Son who would take revenge on Aegisthus when he grew up and wanted to return home
+entity,MINERVA,GOD,"Goddess who speaks to her father Jove about Ulysses' sufferings, daughter of Saturn"
+entity,SATURN,GOD,"Father of Minerva, also called King of kings"
+entity,AEGISTHUS,PERSON,Man who was warned by Mercury but didn't listen and paid for everything in full
+entity,ULYSSES,PERSON,"Suffering hero trapped on a lonely sea-girt island, far from friends, whom Minerva's heart bleeds for"
+entity,ATLAS,GOD,Magician who looks after the bottom of the ocean and carries the great columns that keep heaven and earth asunder
+entity,ATLAS'S DAUGHTER,GOD,"Goddess who lives on the forested island in the middle of the sea and holds Ulysses captive, trying to make him forget his home through blandishments"
+entity,ULYSSES,PERSON,"Capable man who made burnt sacrifices to the gods before Troy, now tired of life and longing to see the smoke of his own chimneys, being tormented by Neptune"
+entity,TROY,LOCATION,Place where Ulysses made many burnt sacrifices to propitiate the gods
+entity,JOVE,GOD,"Father god who speaks with Minerva about Ulysses, acknowledges Ulysses as the most capable man on earth and most liberal in offerings to immortal gods"
+entity,NEPTUNE,GOD,"God who is still furious with Ulysses for blinding Polyphemus, torments Ulysses by preventing him from getting home but will not kill him outright"
+entity,POLYPHEMUS,CREATURE,"King of the Cyclopes who had his eye blinded by Ulysses, son of Neptune and the nymph Thoosa"
+entity,CYCLOPES,CREATURE,Race of beings ruled by Polyphemus as their king
+entity,THOOSA,GOD,Nymph who is the mother of Polyphemus and daughter of the sea-king Phorcys
+entity,PHORCYS,GOD,Sea-king who is the father of Thoosa and grandfather of Polyphemus
+entity,MINERVA,GOD,Goddess who speaks with her father Jove about helping Ulysses return home
+entity,MINERVA,GOD,"Goddess who speaks to her father Saturn, plans to help Ulysses by sending Mercury to Calypso and going to Ithaca to help Telemachus, wears golden sandals and carries a bronze-shod spear"
+entity,SATURN,GOD,"Father of Minerva, referred to as King of kings"
+entity,ULYSSES,PERSON,"Hero who should get home according to the gods' decision, father of Telemachus"
+entity,MERCURY,GOD,Divine messenger who will be sent to the Ogygian island to tell Calypso about the gods' decision regarding Ulysses
+entity,OGYGIAN ISLAND,LOCATION,Island where Calypso resides and where Mercury will be sent
+entity,CALYPSO,GOD,Goddess who will be told by Mercury that Ulysses is to return home
+entity,ITHACA,LOCATION,"Destination where Minerva will go to help Telemachus, homeland of Ulysses"
+entity,TELEMACHUS,PERSON,Son of Ulysses whom Minerva will embolden to call the Achaeans in assembly and speak to his mother's suitors
+entity,ACHAEANS,PERSON,People whom Telemachus will call in assembly
+entity,PENELOPE,PERSON,"Mother of Telemachus and wife of Ulysses, whose suitors are eating up sheep and oxen"
+entity,SPARTA,LOCATION,Place where Minerva will conduct Telemachus to seek news of his father
+entity,PYLOS,LOCATION,Place where Minerva will conduct Telemachus to seek news of his father
+entity,GOLDEN SANDALS,WEAPON_OR_TOOL,Glittering imperishable sandals worn by Minerva that allow her to fly like wind over land or sea
+entity,BRONZE-SHOD SPEAR,WEAPON_OR_TOOL,"Redoubtable, stout, sturdy and strong spear wielded by Minerva to quell ranks of heroes who displease her"
+entity,OLYMPUS,LOCATION,Mountain with topmost summits from which Minerva darted down to Ithaca
+entity,ITHACA,LOCATION,Location where Minerva arrives at the gateway of Ulysses' house
+entity,ULYSSES,PERSON,"Owner of the house where the suitors are gathered, brave father of Telemachus who is away"
+entity,MINERVA,GOD,"Goddess who disguises herself as Mentes, chief of the Taphians, and holds a bronze spear"
+entity,MENTES,PERSON,Chief of the Taphians whom Minerva disguises herself as when visiting
+entity,TAPHIANS,PERSON,"People whose chief is Mentes, the identity Minerva assumes"
+entity,BRONZE SPEAR,WEAPON_OR_TOOL,Spear held by Minerva in her disguise as Mentes
+entity,SUITORS,PERSON,"Lordly men seated on hides of oxen they killed and eaten, playing draughts in front of Ulysses' house"
+entity,TELEMACHUS,PERSON,"Son of Ulysses who sits moodily among the suitors, thinking about his brave father, and welcomes the disguised Minerva"
+entity,MINERVA,GOD,Goddess who is welcomed as a guest and follows Telemachus into the house where she is given a decorated seat
+entity,TELEMACHUS,PERSON,"Host who welcomes the disguised Minerva, leads her into the house, takes her spear, and provides her with a seat and hospitality"
+entity,SPEAR,WEAPON_OR_TOOL,Weapon carried by Minerva that Telemachus takes and places in the spear-stand
+entity,SPEAR-STAND,WEAPON_OR_TOOL,Stand against a strong bearing-post where Telemachus places Minerva's spear along with his father's many spears
+entity,ULYSSES,PERSON,Unhappy father of Telemachus whose many spears are kept in the spear-stand
+entity,SUITORS,PERSON,Noisy and insolent group that Telemachus wants to keep Minerva away from while eating
+entity,MAID SERVANT,PERSON,Female servant who brings water in a golden ewer and pours it into a silver basin for hand washing
+entity,GOLDEN EWER,WEAPON_OR_TOOL,Beautiful golden vessel used by the maid servant to bring water
+entity,SILVER BASIN,WEAPON_OR_TOOL,Silver container into which water is poured for hand washing
+entity,UPPER SERVANT,PERSON,Higher-ranking servant who brings bread and offers good things from the house
+entity,CARVER,PERSON,Servant who fetches plates of various meats and sets golden cups
+entity,SUITORS,PERSON,"Group of men who take their places on benches and seats, eat and drink, then want music and dancing as embellishments of their banquet"
+entity,MANSERVANT,PERSON,Male servant who brings wine and pours it out for the guests
+entity,MEN SERVANTS,PERSON,Male servants who pour water over the suitors' hands
+entity,MAIDS,PERSON,Female servants who go round with bread-baskets
+entity,PAGES,PERSON,Young servants who fill the mixing-bowls with wine and water
+entity,PHEMIUS,PERSON,"Singer who is compelled by the suitors to sing to them, plays the lyre"
+entity,LYRE,WEAPON_OR_TOOL,Musical instrument brought by a servant to Phemius and used for singing
+entity,TELEMACHUS,PERSON,Young man who speaks low to Minerva about the singing and the cost of the banquet
+entity,MINERVA,GOD,Goddess disguised as a guest who listens to Telemachus speak about the situation
+entity,MIXING-BOWLS,WEAPON_OR_TOOL,Containers filled with wine and water by the pages
+entity,BREAD-BASKETS,WEAPON_OR_TOOL,Containers carried by maids to distribute bread
+entity,TELEMACHUS,PERSON,Young man speaking about his father's fate and questioning the disguised Minerva about her identity and origins
+entity,ITHACA,LOCATION,"Homeland where Telemachus hopes his father will return, destination where the visitor arrived"
+entity,ULYSSES,PERSON,Telemachus's father who has fallen on an ill fate and whose bones may be rotting in wilderness or grinding to powder in surf
+entity,MINERVA,GOD,Goddess disguised as Mentes who answers Telemachus's questions about her identity
+entity,MENTES,PERSON,"Identity assumed by Minerva, son of Anchialus and King of the Taphians"
+entity,ANCHIALUS,PERSON,"Father of Mentes, as claimed by the disguised Minerva"
+entity,TAPHIANS,PERSON,"People ruled by Mentes as their king, according to Minerva's disguise"
+entity,TEMESA,LOCATION,Destination where Mentes claims to be bound on his voyage
+entity,TEMESA,LOCATION,Destination where Mentes is bound with a cargo of iron to trade for copper
+entity,RHEITHRON,LOCATION,"Harbour where Mentes' ship lies, located off the open country away from the town"
+entity,NERITUM,LOCATION,Wooded mountain under which the harbour Rheithron is situated
+entity,LAERTES,PERSON,"Old man who was friends with Mentes' father, lives by himself in the country with an old woman to care for him, works in his vineyard"
+entity,MENTES,PERSON,"Trader who speaks to Telemachus, claims friendship between their fathers, brings news about Ulysses"
+entity,ULYSSES,PERSON,"Telemachus' father who is likely on a sea-girt island or prisoner among savages, described as a man of great resource"
+entity,OLD WOMAN,PERSON,Caretaker who looks after Laertes and prepares his meals when he returns from his vineyard
+entity,SAVAGES,PERSON,People who may be detaining Ulysses against his will as a prisoner
+entity,SHIP,WEAPON_OR_TOOL,"Vessel belonging to Mentes that lies in the harbour Rheithron, used for trading cargo"
+entity,VINEYARD,LOCATION,Agricultural area where Laertes works and tends to his vines
+entity,ULYSSES,PERSON,"Man of great resource who could escape even from iron chains, close friend of Mentes before sailing to Troy, father of Telemachus and most ill-starred man under heaven"
+entity,TELEMACHUS,PERSON,"Son who resembles Ulysses about the head and eyes, told by his mother he is Ulysses' son but wishes for a father who grew old on his own estates"
+entity,TROY,LOCATION,Destination where Ulysses sailed along with the flower of all the Argives
+entity,ARGIVES,PERSON,"Greek warriors, the flower of whom went to Troy along with Ulysses"
+entity,MENTES,PERSON,"Close friend of Ulysses before he sailed to Troy, notices Telemachus's resemblance to his father"
+entity,PENELOPE,PERSON,Mother of Telemachus who tells him he is son to Ulysses
+entity,MINERVA,GOD,Goddess disguised as Mentes who speaks about Telemachus's race and asks about the feasting
+entity,TELEMACHUS,PERSON,"Son who speaks about his father's disappearance and the current state of his house, inherits nothing but dismay"
+entity,ULYSSES,PERSON,"Missing father who was hidden away by the gods, spirited away by storm-winds without leaving a trace"
+entity,GUESTS,PERSON,"People behaving atrociously and making riot over the whole house, enough to disgust any respectable person"
+entity,GODS,GOD,Divine beings who in their displeasure have willed Ulysses to be hidden away more closely than any mortal man
+entity,TROY,LOCATION,Place where Ulysses could have fallen with his men in battle
+entity,ACHAEANS,PERSON,Greek people who would have built a mound over Ulysses' ashes if he had died at Troy
+entity,STORM-WINDS,CREATURE,Natural forces that have spirited Ulysses away to an unknown location
+entity,TELEMACHUS,PERSON,"Young man whose father is lost and whose house is being eaten up by suitors, facing sorrows laid upon him by heaven"
+entity,DULICHIUM,LOCATION,Island from which chiefs come to court Telemachus's mother
+entity,SAME,LOCATION,Island from which chiefs come to court Telemachus's mother
+entity,ZACYNTHUS,LOCATION,Woodland island from which chiefs come to court Telemachus's mother
+entity,ITHACA,LOCATION,Island where the principal men are eating up Telemachus's house under pretext of courting his mother
+entity,CHIEFS,PERSON,Leaders from various islands who are eating up Telemachus's house under pretext of paying court to his mother
+entity,PENELOPE,PERSON,"Telemachus's mother who will neither refuse to marry nor bring matters to an end, being courted by suitors"
+entity,SUITORS,PERSON,"Rascally men making havoc of Telemachus's estate, described as those Ulysses would lay hands about"
+entity,MINERVA,GOD,Goddess who exclaims about wanting Ulysses home and recalls when he was in their house drinking and making merry
+entity,ULYSSES,PERSON,"Missing father who Minerva knew when he was drinking and making merry, went to Ephyra to beg poison for his arrows"
+entity,HELMET,WEAPON_OR_TOOL,Piece of armor that Minerva suggests giving to Ulysses
+entity,SHIELD,WEAPON_OR_TOOL,Defensive weapon that Minerva suggests giving to Ulysses
+entity,LANCES,WEAPON_OR_TOOL,"Spear weapons that Minerva suggests giving to Ulysses, specifically a couple of them"
+entity,EPHYRA,LOCATION,Place where Ulysses went to beg poison for his arrows from Ilus
+entity,ILUS,PERSON,Son of Mermerus who feared the ever-living gods and would not give Ulysses poison
+entity,MERMERUS,PERSON,Father of Ilus
+entity,MENTES,PERSON,"Speaker who mentions his father was fond of Ulysses and gave him poison, advises Telemachus about dealing with suitors"
+entity,ULYSSES,PERSON,"Man who received poison from Mentes' father, whose return would give suitors a short shrift and sorry wedding"
+entity,SUITORS,PERSON,"Men who will have a short shrift and sorry wedding if Ulysses returns, advised to take themselves off to their own places"
+entity,TELEMACHUS,PERSON,"Young man being advised to call assembly, get rid of suitors, and go in quest of his missing father"
+entity,ACHAEAN HEROES,PERSON,Heroes whom Telemachus is advised to call in assembly to lay his case before them
+entity,PENELOPE,PERSON,"Telemachus's mother whose mind may be set on marrying again, advised to go back to her father"
+entity,PENELOPE'S FATHER,PERSON,Man who would find Penelope a husband and provide marriage gifts for his dear daughter
+entity,SHIP,WEAPON_OR_TOOL,Best vessel that Telemachus is advised to take with a crew of twenty men to search for his father
+entity,CREW,PERSON,Twenty men that Telemachus should take with him on the ship to quest for his father
+entity,PYLOS,LOCATION,First destination where Telemachus should go to ask Nestor about his father
+entity,NESTOR,PERSON,Person in Pylos whom Telemachus should ask about his father's whereabouts
+entity,SPARTA,LOCATION,Second destination where Telemachus should visit Menelaus
+entity,MENELAUS,PERSON,Person in Sparta who got home last of all the Achaeans and should be visited by Telemachus
+entity,ACHAEANS,PERSON,Greek warriors of whom Menelaus was the last to get home
+entity,TELEMACHUS,PERSON,"Young man being advised to visit Pylos and Sparta, too old to plead infancy, compared to Orestes"
+entity,SUITORS,PERSON,Men making waste in Telemachus's house who should be killed by fair means or foul
+entity,ORESTES,PERSON,Person whose praises are being sung for having killed his father's murderer Aegisthus
+entity,AEGISTHUS,PERSON,Murderer of Orestes' father who was killed by Orestes
+entity,MENTES,PERSON,"Speaker who must go back to his ship and crew, giving advice to Telemachus"
+entity,SHIP,WEAPON_OR_TOOL,Vessel that Mentes must return to
+entity,CREW,PERSON,Group of people waiting for Mentes who will be impatient if kept waiting longer
+entity,TELEMACHUS,PERSON,"Young man who speaks kindly to the stranger, offers hospitality including a bath and present, receives courage and thinks more about his father"
+entity,MINERVA,GOD,"Goddess disguised as a stranger who declines to stay longer, promises to return for a present, flies away like a bird and gives Telemachus courage"
+entity,PRESENT,WEAPON_OR_TOOL,"Keepsake of great beauty and value that Telemachus offers to give, such as only dear friends give to one another"
+entity,BATH,WEAPON_OR_TOOL,Refreshment that Telemachus offers to the stranger before departure
+entity,BIRD,CREATURE,Creature that Minerva resembles when she flies away into the air
+entity,ULYSSES,PERSON,Telemachus's father whom he thinks about more than ever after Minerva's visit
+entity,TELEMACHUS,PERSON,Young man who realized the stranger had been a god and went straight to where the suitors were sitting
+entity,SUITORS,PERSON,"Group of men sitting and listening to Phemius sing, drinking wine"
+entity,PHEMIUS,PERSON,Singer who was telling the sad tale of the return from Troy and the ills Minerva laid upon the Achaeans
+entity,TROY,LOCATION,Place from which there was a sad tale of return that Phemius was singing about
+entity,MINERVA,GOD,Goddess who had laid ills upon the Achaeans according to Phemius's song
+entity,ACHAEANS,PERSON,Greek people upon whom Minerva had laid ills according to the song
+entity,PENELOPE,PERSON,"Daughter of Icarius who heard the song from upstairs, came down attended by handmaids, stood by bearing posts with a veil before her face, weeping bitterly"
+entity,ICARIUS,PERSON,Father of Penelope
+entity,HANDMAIDS,PERSON,Two female servants who attended Penelope when she came downstairs
+entity,BEARING POSTS,WEAPON_OR_TOOL,Structural supports for the roof of the cloisters where Penelope stood
+entity,VEIL,WEAPON_OR_TOOL,Covering that Penelope held before her face while weeping
+entity,ULYSSES,PERSON,"Penelope's lost husband whom she mourns without ceasing, whose name was great over all Hellas and middle Argos"
+entity,HELLAS,LOCATION,Region where Ulysses's name was great
+entity,MIDDLE ARGOS,LOCATION,Region where Ulysses's name was great
+entity,TELEMACHUS,PERSON,"Son who answers his mother, tells her to let the bard sing, claims to be master of the house and that speech is man's matter"
+entity,PENELOPE,PERSON,"Mother who is told by Telemachus to busy herself with daily duties, goes back into house wondering and mourns her husband until sleep comes"
+entity,BARD,PERSON,"Singer who Telemachus defends, saying bards don't make the ills they sing of"
+entity,JOVE,GOD,God who makes the ills that bards sing of and sends weal or woe upon mankind according to his pleasure
+entity,DANAANS,PERSON,People whose ill-fated return from Troy the bard sings about
+entity,ULYSSES,PERSON,"Man who never came back from Troy, mourned by Penelope as her dear husband"
+entity,TROY,LOCATION,Place from which Ulysses and many others never returned
+entity,LOOM,WEAPON_OR_TOOL,Daily duty tool that Telemachus tells his mother to busy herself with
+entity,DISTAFF,WEAPON_OR_TOOL,Daily duty tool for spinning that Telemachus mentions to his mother
+entity,SERVANTS,PERSON,People whose ordering Telemachus tells his mother to attend to
+entity,HANDMAIDS,PERSON,Female servants who accompany Penelope upstairs to her room
+entity,MINERVA,GOD,Goddess who sheds sweet sleep over Penelope's eyes while she mourns
+entity,SUITORS,PERSON,Men who were clamorous throughout the covered cloisters and prayed
+entity,SUITORS,PERSON,"Shameless and insolent men who were clamorous in the covered cloisters, each praying to be Penelope's bed fellow, who feast at Telemachus's expense"
+entity,TELEMACHUS,PERSON,"Young man who speaks boldly to the suitors, calls them shameless and insolent, gives them formal notice to depart, claims he will be chief in Ithaca"
+entity,PHEMIUS,PERSON,"Man with a divine voice who sings, praised by Telemachus for his rare vocal talent"
+entity,JOVE,GOD,God who Telemachus says shall reckon with the suitors in full if they persist in their behavior
+entity,ANTINOUS,PERSON,"Son of Eupeithes who responds to Telemachus, marvels at his boldness, suggests the gods have given him lessons in bluster and tall talking"
+entity,EUPEITHES,PERSON,Father of Antinous
+entity,ITHACA,LOCATION,Place where Telemachus's father was chief before him and where Telemachus claims he will be chief
+entity,ULYSSES,PERSON,"Telemachus's father who was previously chief in Ithaca, referenced as ""your father"" by Antinous"
+entity,TELEMACHUS,PERSON,"Young man who aspires to be chief and claims he will rule in his own house over those whom Ulysses won for him, states his father is dead"
+entity,ULYSSES,PERSON,Dead father of Telemachus who won people for his son to rule over
+entity,ITHACA,LOCATION,"Place where there are many great men both old and young, where no one should do violence or rob while there is a man there"
+entity,EURYMACHUS,PERSON,Son of Polybus who speaks to Telemachus about leadership and asks about the stranger
+entity,POLYBUS,PERSON,Father of Eurymachus
+entity,STRANGER,PERSON,"Well-to-do man who hurried off suddenly before the suitors could get to know him, possibly brought news about Telemachus's father's return"
+entity,TELEMACHUS,PERSON,"Young man who states his father is dead, puts no faith in rumors, knows in his heart the stranger was a goddess, has a room high up in a tower"
+entity,ULYSSES,PERSON,Telemachus's dead father who was an old friend of Mentes
+entity,PENELOPE,PERSON,Telemachus's mother who sometimes sends for a soothsayer and questions him
+entity,SOOTHSAYER,PERSON,"Person whom Penelope sometimes sends for and questions, whose prophecies Telemachus gives no heed"
+entity,MENTES,PERSON,"Son of Anchialus, chief of the Taphians, old friend of Ulysses, identity claimed by the stranger"
+entity,ANCHIALUS,PERSON,Father of Mentes
+entity,TAPHIANS,PERSON,People ruled by Mentes as their chief
+entity,MINERVA,GOD,Goddess who Telemachus knew in his heart had been the stranger
+entity,SUITORS,PERSON,"Men who returned to singing and dancing until evening, then went home to bed in their own abodes"
+entity,TOWER,LOCATION,"High structure where Telemachus's room is located, looking onto the outer court"
+entity,OUTER COURT,LOCATION,Area that Telemachus's tower room looks onto
+entity,EURYCLEA,PERSON,"Good old woman, daughter of Ops, who went before Telemachus with blazing torches"
+entity,OPS,PERSON,"Father of Euryclea, son of Pisenor"
+entity,PISENOR,PERSON,"Grandfather of Euryclea, father of Ops"
+entity,TORCHES,WEAPON_OR_TOOL,Blazing implements carried by Euryclea to light the way
+entity,LAERTES,PERSON,"Person who bought Euryclea with his own money when she was young, gave the worth of twenty oxen for her"
+entity,LAERTES,PERSON,"Man who had a wedded wife and feared her resentment, so did not take Euryclea to his bed despite respecting her"
+entity,LAERTES' WIFE,PERSON,Wedded wife of Laertes whose resentment he feared regarding Euryclea
+entity,EURYCLEA,PERSON,"Good old woman who lighted Telemachus to his room, loved him better than other women in the house, had nursed him as a baby, folded his shirt and hung it up"
+entity,TELEMACHUS,PERSON,"Young man who was nursed by Euryclea as a baby, went to his bedroom, took off his shirt, lay covered with woollen fleece thinking of his voyage"
+entity,BEDROOM,LOCATION,Telemachus's room where he sat on the bed and slept
+entity,BED,WEAPON_OR_TOOL,Furniture where Telemachus sat and later lay covered with woollen fleece
+entity,SHIRT,WEAPON_OR_TOOL,Garment that Telemachus took off and gave to Euryclea to fold and hang up
+entity,PEG,WEAPON_OR_TOOL,Object by the bedside where Euryclea hung Telemachus's shirt
+entity,SILVER CATCH,WEAPON_OR_TOOL,Device used by Euryclea to pull the door closed
+entity,STRAP,WEAPON_OR_TOOL,Item used by Euryclea to draw the bolt home on the door
+entity,WOOLLEN FLEECE,WEAPON_OR_TOOL,Covering under which Telemachus lay while thinking all night
+entity,MINERVA,GOD,Goddess who had given counsel to Telemachus about his intended voyage
