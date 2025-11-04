@@ -16,5 +16,5 @@
 7. setting python=3.11
 8. pip install -r requirements.txt
 9. start jupyterlab
-10. execute 
+10. execute rag_full.ipynb
 
