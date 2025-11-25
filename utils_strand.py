@@ -41,7 +41,7 @@ bedrock_embedder = BedrockEmbedding(
 # Initialize Strands agent if available
 if STRANDS_AVAILABLE:
     bedrock_model = BedrockModel(
-        model_id=os.environ.get("BEDROCK_MODEL_ID", "apac.anthropic.claude-sonnet-4-20250514-v1:0"),
+        model_id=os.environ.get("BEDROCK_MODEL_ID", "apac.anthropic.claude-3-7-sonnet-20250219-v1:0"),
         region_name=os.environ.get("AWS_DEFAULT_REGION", "ap-northeast-2"),
         temperature=0.3,
     )

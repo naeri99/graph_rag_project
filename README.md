@@ -16,5 +16,5 @@
 6. activate venv 
 7. pip install -r requirements.txt
 8. start jupyterlab
-9 execute rag_full.ipynb
+9. execute rag_full.ipynb
 
